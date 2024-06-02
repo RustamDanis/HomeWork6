@@ -1,0 +1,15 @@
+F:\HomeWork6\Task3\bin\Debug\net8.0\Task3.exe
+F:\HomeWork6\Task3\bin\Debug\net8.0\Task3.deps.json
+F:\HomeWork6\Task3\bin\Debug\net8.0\Task3.runtimeconfig.json
+F:\HomeWork6\Task3\bin\Debug\net8.0\Task3.dll
+F:\HomeWork6\Task3\bin\Debug\net8.0\Task3.pdb
+F:\HomeWork6\Task3\obj\Debug\net8.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+F:\HomeWork6\Task3\obj\Debug\net8.0\Task3.AssemblyInfoInputs.cache
+F:\HomeWork6\Task3\obj\Debug\net8.0\Task3.AssemblyInfo.cs
+F:\HomeWork6\Task3\obj\Debug\net8.0\Task3.csproj.CoreCompileInputs.cache
+F:\HomeWork6\Task3\obj\Debug\net8.0\Task3.sourcelink.json
+F:\HomeWork6\Task3\obj\Debug\net8.0\Task3.dll
+F:\HomeWork6\Task3\obj\Debug\net8.0\refint\Task3.dll
+F:\HomeWork6\Task3\obj\Debug\net8.0\Task3.pdb
+F:\HomeWork6\Task3\obj\Debug\net8.0\Task3.genruntimeconfig.cache
+F:\HomeWork6\Task3\obj\Debug\net8.0\ref\Task3.dll
